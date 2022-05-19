@@ -1,0 +1,1 @@
+Replication and tutorial data and code for the paper "An optimal test for strategic interaction in social and economic network formation between heterogeneous agents" by Andrin Pelican and Bryan S. Graham. ArXiv version available [here](https://arxiv.org/abs/2009.00212).
